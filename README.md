@@ -19,7 +19,7 @@ DCLinkView es un addon para World of Warcraft que filtra automáticamente los en
 Este addon está basado en *Easy Copy* de **bitbiter**, con mejoras y nuevas funciones añadidas por **AndrewC**.  
 
 📜 **Licencia**  
-🔓 Código abierto bajo [nombre de la licencia, si aplica].  
+🔓 Código abierto bajo [GNU].  
 
 💬 **Contacto y soporte**  
-📢 ¿Tienes sugerencias o encontraste un error? ¡Déjanos tu feedback en [tu canal de soporte]!  
+📢 ¿Tienes sugerencias o encontraste un error? ¡Déjanos tu feedback en en repositorio!  
