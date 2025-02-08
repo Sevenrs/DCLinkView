@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: DCLinkView
+## Notes: Este addon extrae enlaces de Discord y los muestra listos para copiar y pegar.
+## Author: bitbiter | Andrewc
+## Version: 1.1
+## SavedVariables: ECVars  
+DCLinkView.xml
